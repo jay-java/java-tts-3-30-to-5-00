@@ -1,0 +1,49 @@
+import java.util.Scanner;
+
+//5 types of conditional statements
+//1.simple if
+//2.if else
+//3.nested if
+//4.else if ladder
+//5.switch case
+public class conditionalStatement {
+	public static void main(String[] args) {
+		int i, j;
+		Scanner sc = new Scanner(System.in);
+		System.out.println("i = ");
+		i = sc.nextInt();
+		System.out.println("j = ");
+		j = sc.nextInt();
+		// 1.simple if
+		if (i > j) {
+			System.out.println("i is greater than j");
+		}
+
+		// 2.if else
+		if (i > j) {
+			System.out.println("i is greater than j");
+		} else {
+			System.out.println("j is greater than i");
+		}
+
+		// 3.nested if
+		System.out.println("enter age : ");
+		int age = sc.nextInt();
+		if (age > 18) {
+			if (age < 60) {
+				System.out.println("you are eligible");
+			} else {
+				System.out.println("age is grater than 18 but not less than 60");
+			}
+		} else {
+			System.out.println("age is less than 18");
+		}
+		
+		//4.else if ladder
+		System.out.println("enter marks : ");
+		int m = sc.nextInt();
+		if() {
+			
+		}
+	}
+}

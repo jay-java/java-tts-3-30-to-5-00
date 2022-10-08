@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+class abc{
+	public void call() {
+		System.out.println("abc class method");
+	}
+}
+public class UserInput {
+	public static void main(String[] args) {
+		int i;
+		Scanner sc = new Scanner(System.in);
+		i =  sc.nextInt();
+		abc obj = new abc();
+		obj.call();
+		
+	}
+}

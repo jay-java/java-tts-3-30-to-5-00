@@ -1,0 +1,10 @@
+class abc{
+	public void call() {
+		System.out.println("abc class method");
+	}
+}
+public class UserInput {
+	public static void main(String[] args) {
+		int i;
+	}
+}

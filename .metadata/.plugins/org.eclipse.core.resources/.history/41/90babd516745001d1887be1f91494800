@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+//5 types of conditional statements
+//1.simple if
+//2.if else
+//3.nested if
+//4.else if ladder
+//5.switch case
+public class conditionalStatement {
+	public static void main(String[] args) {
+		int i,j;
+		Scanner sc = new Scanner(System.in);
+		System.out.println("i = ");
+		i = sc.nextInt();
+		System.out.println("j = ");
+		j = sc.nextInt();
+		
+	}
+}

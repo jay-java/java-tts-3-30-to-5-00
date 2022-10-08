@@ -1,0 +1,11 @@
+
+public class StringClassDemo {
+	public static void main(String[] args) {
+		String s1 = "TOPS";
+		String s2 = "TOPS";
+		System.out.println(s1);
+		String name = new String("TOPS");
+		System.out.println(name);
+		
+	}
+}

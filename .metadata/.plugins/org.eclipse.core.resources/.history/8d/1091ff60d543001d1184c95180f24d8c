@@ -1,0 +1,7 @@
+
+public class first {
+	puvoid main(String[] args) {
+		System.out.print("hello");
+		System.out.println("java");
+	}
+}

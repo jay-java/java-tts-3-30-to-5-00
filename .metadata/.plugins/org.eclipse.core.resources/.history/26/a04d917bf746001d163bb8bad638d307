@@ -1,0 +1,7 @@
+
+public class StringBuffreandStringBUilder {
+	public static void main(String[] args) {
+		StringBuffer s = new StringBuffer("hello");
+		StringBuffer s1 = new StringBuffer("hello");
+	}
+}
