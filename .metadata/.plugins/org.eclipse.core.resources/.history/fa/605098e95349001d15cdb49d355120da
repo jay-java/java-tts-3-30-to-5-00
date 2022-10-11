@@ -1,0 +1,15 @@
+
+class AA{
+	 AA(){
+		
+	}
+	public void call() {
+		System.out.println("call funcion inside AA class");
+	}
+}
+public class ConstructorData {
+	public static void main(String[] args) {
+		AA a = new AA();
+		a.call();
+	}
+}

@@ -1,0 +1,18 @@
+
+class AA{
+	 AA(){
+		 System.out.println("default constructor");
+	}
+	 AA(int i){
+		 System.out.println("para constructor");
+	}
+	public void call() {
+		System.out.println("call funcion inside AA class");
+	}
+}
+public class ConstructorData {
+	public static void main(String[] args) {
+		AA a = new AA(1);
+		a.call();
+	}
+}
