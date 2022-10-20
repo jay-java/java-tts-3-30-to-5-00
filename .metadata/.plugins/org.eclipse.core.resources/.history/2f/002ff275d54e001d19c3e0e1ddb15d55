@@ -1,0 +1,13 @@
+
+class Studen{
+	int id;
+	static String cname="TOPS";
+	public Studen(int id) {
+		this.id=id;
+	}
+}
+public class StatitcKeyword {
+	public static void main(String[] args) {
+		
+	}
+}

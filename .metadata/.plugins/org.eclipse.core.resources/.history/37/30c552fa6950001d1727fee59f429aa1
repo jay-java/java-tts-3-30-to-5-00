@@ -1,0 +1,20 @@
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+
+class Employee{
+	int id;
+	String name;
+	double salary;
+	public Employee(int id,String name,double salary) {
+		this.id=id;
+		this.name=name;
+		this.salary=salary;
+	}
+}
+public class SerializationDmeo {
+	public static void main(String[] args) throws FileNotFoundException {
+		Employee e = new Employee(1, "java", 10000);
+		FileOutputStream fos = new FileOutputStream("serialize.txt");
+		
+	}
+}

@@ -1,0 +1,15 @@
+class Math1{
+	public void sum() {
+		
+	}
+}
+class Math2 extends Mat1{
+	public void sum() {
+		
+	}
+}
+public class Overriding {
+	public static void main(String[] args) {
+		
+	}
+}

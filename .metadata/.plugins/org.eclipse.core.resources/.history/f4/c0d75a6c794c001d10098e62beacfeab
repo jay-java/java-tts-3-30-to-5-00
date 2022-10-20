@@ -1,0 +1,13 @@
+class Math1{
+	public void sum() {
+		
+	}
+}
+class Math2{
+	
+}
+public class Overriding {
+	public static void main(String[] args) {
+		
+	}
+}

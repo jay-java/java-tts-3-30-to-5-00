@@ -1,0 +1,15 @@
+
+class Parent{
+	
+}
+class Child1{
+	
+}
+class child2{
+	
+}
+public class HierarchicalDemo {
+	public static void main(String[] args) {
+
+	}
+}

@@ -1,0 +1,11 @@
+//1.Class
+//2.OBject
+//3.Inheritacne
+//4.Polymorphism
+//5.Abstraction
+//6.Encapsulation
+public class InheritanceDmeo {
+	public static void main(String[] args) {
+
+	}
+}

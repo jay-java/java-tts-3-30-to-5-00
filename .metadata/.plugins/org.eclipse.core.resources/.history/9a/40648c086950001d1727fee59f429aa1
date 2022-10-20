@@ -1,0 +1,9 @@
+import java.io.FileWriter;
+
+public class FIleWriteReader {
+	public static void main(String[] args) {
+		FileWriter fr = new FileWriter("t2.txt");
+		String s = "hello java";
+		fr.write(s);
+	}
+}

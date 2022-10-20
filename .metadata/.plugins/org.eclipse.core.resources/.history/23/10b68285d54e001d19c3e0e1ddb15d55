@@ -1,0 +1,17 @@
+
+class Studen{
+	int id;
+	static String cname="TOPS";
+	public Studen(int id) {
+		this.id=id;
+	}
+	@Override
+	public String toString() {
+		return "id : "+id+" cname : "+cname;
+	}
+}
+public class StatitcKeyword {
+	public static void main(String[] args) {
+		
+	}
+}

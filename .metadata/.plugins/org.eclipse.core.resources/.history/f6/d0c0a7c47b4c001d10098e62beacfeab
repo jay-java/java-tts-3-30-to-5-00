@@ -1,0 +1,19 @@
+
+abstract class RBI{
+	public abstract void interest();
+	public abstract void HL();
+	public void RepoRate() {
+		System.out.println("+-4 %");
+	}
+}
+class SBI extends RBI{
+	
+}
+class JAVA{
+	
+}
+public class AbstractionDemo {
+	public static void main(String[] args) {
+		
+	}
+}

@@ -1,6 +1,0 @@
-public class datatype {
-	public static void main(String[] args) {
-		//1.byte 2.short 3.int 4.long 5.float 6.double 7.char 8.boolean
-		float f = 4.234634573457f;
-	}
-}

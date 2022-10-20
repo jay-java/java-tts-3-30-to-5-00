@@ -1,0 +1,33 @@
+//1.Class
+//2.OBject
+//3.Inheritance->to access property of one class to another class
+//	types of
+//		1.single
+//		2.multilevel
+//		3.multiple
+//		4.hierarchical
+//		5.hybrid
+//4.Polymorphism
+//5.Abstraction
+//6.Encapsulation
+
+
+
+//.single inheritance
+class A1{ //parent,base
+	public void a1Method() {
+		System.out.println("a1 class method");
+	}
+}
+class B extends A1{ //child,derived
+	public void bMethod() {
+		System.out.println("b class method");
+	}
+}
+public class InheritanceDmeo {
+	public static void main(String[] args) {
+		B b = new B();
+		b.a1Method();
+		b.bMethod();
+	}
+}

@@ -1,0 +1,10 @@
+class Mathe{
+	public void sum() {
+		
+	}
+}
+public class Overriding {
+	public static void main(String[] args) {
+		
+	}
+}

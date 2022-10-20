@@ -1,0 +1,21 @@
+//1.Class
+//2.OBject
+//3.Inheritacne
+//4.Polymorphism
+//5.Abstraction
+//6.Encapsulation
+class A1{ //parent
+	public void a1Method() {
+		System.out.println("a1 class method");
+	}
+}
+class B extends A1{ //child
+	public void bMethod() {
+		System.out.println("b class method");
+	}
+}
+public class InheritanceDmeo {
+	public static void main(String[] args) {
+
+	}
+}

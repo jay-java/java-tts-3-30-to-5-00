@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="abc"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="AA"/>
+    <fullyQualifiedTypeName name="CALL"/>
+    <fullyQualifiedTypeName name="B"/>
+    <fullyQualifiedTypeName name="C"/>
+    <fullyQualifiedTypeName name="Child1"/>
+    <fullyQualifiedTypeName name="java.lang.Package"/>
+    <fullyQualifiedTypeName name="Parent"/>
+    <fullyQualifiedTypeName name="child2"/>
+    <fullyQualifiedTypeName name="MAthematics"/>
+    <fullyQualifiedTypeName name="Math2"/>
+    <fullyQualifiedTypeName name="SBI"/>
+    <fullyQualifiedTypeName name="JAVA"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="Student"/>
+    <fullyQualifiedTypeName name="Studen"/>
+    <fullyQualifiedTypeName name="student1"/>
+    <fullyQualifiedTypeName name="Calling"/>
 </qualifiedTypeNameHistroy>

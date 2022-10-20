@@ -1,0 +1,15 @@
+
+abstract class RBI{
+	public abstract void interest();
+}
+class SBI{
+	
+}
+class JAVA{
+	
+}
+public class AbstractionDemo {
+	public static void main(String[] args) {
+		
+	}
+}

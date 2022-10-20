@@ -1,0 +1,40 @@
+import java.util.Scanner;
+
+class Student{
+	int id;
+	String name;
+	float per;
+	Scanner sc = new Scanner(System.in);
+	public void setId() {
+		System.out.println("enter id : ");
+		id = sc.nextInt();
+	}
+	public int getId() {
+		return id;
+	}
+	public void setName(String name) {
+		System.out.println("enter name : ");
+		name =sc.next();
+	}
+	public String getName() {
+		return name;
+	}
+	public void setPer(float per) {
+		this.per=per;
+	}
+	public float getPer() {
+		return per;
+	}
+}
+public class EncapsulationDemo {
+	public static void main(String[] args) {
+		Student s1 = new Student();
+		s1.setId(1);
+		s1.id=12;
+		s1.setName("rudra");
+		s1.setPer(56.4f);
+		System.out.println("id = "+s1.getId());
+		System.out.println("name = "+s1.getName());
+		System.out.println("per = "+s1.getPer());
+	}
+}

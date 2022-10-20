@@ -1,0 +1,7 @@
+
+public class FileOutpurInputStream {
+	public static void main(String[] args) {
+		String s = "hello this is file handling by fileoutputstream fileinputstream";
+		FileOutpurInputStream fos = new FileOutpurInputStream();
+	}
+}

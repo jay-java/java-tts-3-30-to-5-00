@@ -1,0 +1,10 @@
+class MAthematics{
+	public void sum() {
+		
+	}
+}
+public class OVerloading {
+	public static void main(String[] args) {
+		
+	}
+}

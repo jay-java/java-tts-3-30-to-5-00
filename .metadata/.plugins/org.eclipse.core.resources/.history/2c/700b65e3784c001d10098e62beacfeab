@@ -1,0 +1,13 @@
+class MAthematics{
+	public void sum() {
+		System.out.println("sum method 1");
+	}
+	public void sum() {
+		System.out.println("sum method 1");
+	}
+}
+public class OVerloading {
+	public static void main(String[] args) {
+		
+	}
+}

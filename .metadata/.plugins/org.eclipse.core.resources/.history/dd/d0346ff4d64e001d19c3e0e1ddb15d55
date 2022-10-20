@@ -1,0 +1,14 @@
+
+class student1{
+	final int id;
+	public void change() {
+		System.out.println(id);
+	}
+}
+public class FInaleKeyword {
+	public static void main(String[] args) {
+		student1 s  = new student1();
+		s.id=1;
+		s.change();
+	}
+}

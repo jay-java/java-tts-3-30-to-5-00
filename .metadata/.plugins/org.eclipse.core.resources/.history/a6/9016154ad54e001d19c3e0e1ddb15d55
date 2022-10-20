@@ -1,0 +1,10 @@
+
+class Studen{
+	int id;
+	String cname="TOPS"
+;}
+public class StatitcKeyword {
+	public static void main(String[] args) {
+		
+	}
+}

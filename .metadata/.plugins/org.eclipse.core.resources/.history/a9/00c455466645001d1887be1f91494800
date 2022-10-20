@@ -1,9 +1,0 @@
-
-public class TypeCasting {
-	public static void main(String[] args) {
-		int i = 10;
-		System.out.println(i);
-		String j = String.valueOf(i);
-		System.out.println(j);
-	}
-}
