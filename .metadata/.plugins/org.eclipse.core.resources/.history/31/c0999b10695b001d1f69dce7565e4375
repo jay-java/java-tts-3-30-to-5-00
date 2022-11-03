@@ -1,0 +1,11 @@
+class Students{
+	int id;
+	String name;
+	double per;
+	
+}
+public class LIstPractical {
+	public static void main(String[] args) {
+		
+	}
+}
