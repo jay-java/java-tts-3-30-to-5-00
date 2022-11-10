@@ -1,0 +1,11 @@
+import javax.swing.JButton;
+
+public class SwingDemo {
+	JButton b1,b2,b3,b4;
+	public SwingDemo() {
+		
+	}
+	public static void main(String[] args) {
+		
+	}
+}

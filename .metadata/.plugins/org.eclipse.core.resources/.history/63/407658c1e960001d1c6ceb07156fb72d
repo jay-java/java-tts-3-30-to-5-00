@@ -1,0 +1,10 @@
+
+public class SwingDemo {
+	
+	public SwingDemo() {
+		
+	}
+	public static void main(String[] args) {
+		
+	}
+}

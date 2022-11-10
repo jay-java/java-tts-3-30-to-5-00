@@ -1,0 +1,16 @@
+
+class Mobile{
+	int price;
+	int ram;
+	String name;
+	public Mobile(int price,int ram,String name) {
+		this.price=price;
+		this.ram=ram;
+		this.name=name;
+	}
+}
+public class ComparableDemo {
+	public static void main(String[] args) {
+		
+	}
+}
