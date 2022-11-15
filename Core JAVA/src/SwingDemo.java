@@ -3,7 +3,9 @@ import java.awt.event.ActionListener;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
+import java.sql.ResultSet;
 
+import javax.print.attribute.standard.RequestingUserName;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -123,15 +125,78 @@ public class SwingDemo implements ActionListener{
 		}
 		else if(e.getSource()==b2){
 			System.out.println("search button clicked");
+			int id = Integer.parseInt(t1.getText());
+			try {
+				Connection conn = SwingDemo.createConnection();
+				String sql="select * from student where id=?";
+				PreparedStatement pst = conn.prepareStatement(sql);
+				pst.setInt(1, id);
+				ResultSet rs = pst.executeQuery();
+				if(rs.next()) {
+					t1.setText(String.valueOf(rs.getInt("id")));
+					t2.setText(rs.getString("name"));
+					t3.setText(String.valueOf(rs.getLong("contact")));
+					t4.setText(rs.getString("email"));
+					t5.setText(rs.getString("address"));
+				}
+				else {
+					System.out.println("data not found");
+					t1.setText("");
+					t2.setText("");
+					t3.setText("");
+					t4.setText("");
+					t5.setText("");
+				}
+			} catch (Exception e2) {
+				e2.printStackTrace();
+			}
 			
 		}
 		else if(e.getSource()==b3){
 			System.out.println("update button clicked");
-			
+			int id = Integer.parseInt(t1.getText());
+			String name = t2.getText();
+			long contact = Long.parseLong(t3.getText());
+			String email = t4.getText();
+			String address = t5.getText();
+			try {
+				Connection conn = SwingDemo.createConnection();
+				String sql="update student set name=?,contact=?,email=?,address=? where id=?";
+				PreparedStatement pst = conn.prepareStatement(sql);
+				pst.setString(1, name);
+				pst.setLong(2, contact);
+				pst.setString(3, email);
+				pst.setString(4, address);
+				pst.setInt(5, id);
+				pst.executeUpdate();
+				System.out.println("data updated");
+				t1.setText("");
+				t2.setText("");
+				t3.setText("");
+				t4.setText("");
+				t5.setText("");
+			} catch (Exception e2) {
+				e2.printStackTrace();
+			}
 		}
 		else if(e.getSource()==b4){
 			System.out.println("delete button clicked");
-			
+			int id = Integer.parseInt(t1.getText());
+			try {
+				Connection conn = SwingDemo.createConnection();
+				String sql="delete from student where id=?";
+				PreparedStatement pst = conn.prepareStatement(sql);
+				pst.setInt(1, id);
+				pst.executeUpdate();
+				System.out.println("data deleted");
+				t1.setText("");
+				t2.setText("");
+				t3.setText("");
+				t4.setText("");
+				t5.setText("");
+			} catch (Exception e2) {
+				e2.printStackTrace();
+			}
 		}
 	}
 }
