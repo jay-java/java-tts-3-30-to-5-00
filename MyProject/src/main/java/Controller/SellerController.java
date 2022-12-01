@@ -1,6 +1,8 @@
 package Controller;
 
 import java.io.IOException;
+import java.util.Random;
+
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -9,6 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import Dao.SellerDao;
 import Model.Seller;
+import services.Service;
 
 /**
  * Servlet implementation class SellerController
@@ -97,6 +100,38 @@ public class SellerController extends HttpServlet {
 			{
 				request.setAttribute("msg", "Old password is incorrect");
 				request.getRequestDispatcher("seller-change-password.jsp").forward(request, response);
+			}
+		}
+		else if(action.equalsIgnoreCase("getotp")) {
+			String email = request.getParameter("email");
+			boolean flag = SellerDao.checkEmail(email);
+			if(flag == true) {
+				Random r = new Random();
+				int num = r.nextInt(9999);
+				Service s = new Service();
+				s.sendMail(email, num);
+				request.setAttribute("email", email);
+				request.setAttribute("otp", num);
+				request.getRequestDispatcher("seller-verify-otp.jsp").forward(request, response);
+			}
+			else {
+				request.setAttribute("msg", "email id not registered");
+				request.getRequestDispatcher("seller-forgot-password.jsp").forward(request, response);
+			}
+		}
+		else if(action.equalsIgnoreCase("verify")) {
+			String email = request.getParameter("email");
+			int otp1 = Integer.parseInt(request.getParameter("otp1"));
+			int otp2 = Integer.parseInt(request.getParameter("otp2"));
+			if(otp1 == otp2) {
+				request.setAttribute("email", email);
+				request.getRequestDispatcher("seller-new-password.jsp").forward(request, response);
+			}
+			else {
+				request.setAttribute("email", email);
+				request.setAttribute("otp", otp1);
+				request.setAttribute("msg", "OTP not mathced");
+				request.getRequestDispatcher("seller-verify-otp.jsp").forward(request, response);
 			}
 		}
 	}

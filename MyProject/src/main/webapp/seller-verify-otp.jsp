@@ -201,33 +201,33 @@
 	<div class="container-fluid">
 		<h2
 			class="section-title position-relative text-uppercase mx-xl-5 mb-4">
-			<span class="bg-secondary pr-3">Seller Login</span>
+			<span class="bg-secondary pr-3">verify</span>
 		</h2>
 		<div class="row px-xl-5">
 			<div class="col-lg-7 mb-5">
 				<div class="contact-form bg-light p-30">
 					<div id="success"></div>
 					<form action="SellerController" name="sentMessage" method="post">
+						<%String email = (String)request.getAttribute("email");%>
+						<%int otp1 = (int)((request.getAttribute("otp")));%>
+						<input type="hidden" name="email" value="<%=email%>">
+						<input type="hidden" name="otp1" value="<%=otp1%>">
 						<div class="control-group">
-							<input type="email" class="form-control" id="email" name="email"
-								placeholder="Your Email" required="required"
+							<input type="text" class="form-control" id="email" name="otp2"
+								placeholder="Enter OTP " required="required"
 								data-validation-required-message="Please enter your email" />
-							<p class="help-block text-danger"></p>
-						</div>
-						<div class="control-group">
-							<input type="text" class="form-control" id="subject" name="password"
-								placeholder="Your Password " required="required"
-								data-validation-required-message="Please enter a subject" />
 							<p class="help-block text-danger"></p>
 						</div>
 						<div>
 							<button class="btn btn-primary py-2 px-4" type="submit"
-								name="action" value="login" id="sendMessageButton">Login
+								name="action" value="verify" id="sendMessageButton">Verify
 							</button>
 						</div>
 					</form>
-					
-					<a href="seller-forgot-password.jsp">Forgot  PAssword ?</a>
+					<%String msg  = (String)request.getAttribute("msg"); %>
+					<%if(msg!=null){ %>
+						<%out.print(msg); %>
+					<%} %>
 				</div>
 			</div>
 		</div>

@@ -201,7 +201,7 @@
 	<div class="container-fluid">
 		<h2
 			class="section-title position-relative text-uppercase mx-xl-5 mb-4">
-			<span class="bg-secondary pr-3">Seller Login</span>
+			<span class="bg-secondary pr-3">OTP</span>
 		</h2>
 		<div class="row px-xl-5">
 			<div class="col-lg-7 mb-5">
@@ -214,20 +214,16 @@
 								data-validation-required-message="Please enter your email" />
 							<p class="help-block text-danger"></p>
 						</div>
-						<div class="control-group">
-							<input type="text" class="form-control" id="subject" name="password"
-								placeholder="Your Password " required="required"
-								data-validation-required-message="Please enter a subject" />
-							<p class="help-block text-danger"></p>
-						</div>
 						<div>
 							<button class="btn btn-primary py-2 px-4" type="submit"
-								name="action" value="login" id="sendMessageButton">Login
+								name="action" value="getotp" id="sendMessageButton">Get OTP
 							</button>
 						</div>
 					</form>
-					
-					<a href="seller-forgot-password.jsp">Forgot  PAssword ?</a>
+					<%String msg  = (String)request.getAttribute("msg"); %>
+					<%if(msg!=null){ %>
+						<%out.print(msg); %>
+					<%} %>
 				</div>
 			</div>
 		</div>
