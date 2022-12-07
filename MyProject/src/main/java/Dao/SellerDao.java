@@ -109,4 +109,17 @@ public class SellerDao {
 		}
 		return flag;
 	}
+	public static void newPassword(String np, String email) {
+		try {
+			Connection conn = DBConnection.craetConnection();
+			String sql="update seller set password=? where email=?";
+			PreparedStatement pst = conn.prepareStatement(sql);
+			pst.setString(1, np);
+			pst.setString(2, email);
+			pst.executeUpdate();
+			System.out.println("password changed");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
 }

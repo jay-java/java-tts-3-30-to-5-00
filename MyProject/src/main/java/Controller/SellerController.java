@@ -107,7 +107,7 @@ public class SellerController extends HttpServlet {
 			boolean flag = SellerDao.checkEmail(email);
 			if(flag == true) {
 				Random r = new Random();
-				int num = r.nextInt(9999);
+				int num = r.nextInt(999999);
 				Service s = new Service();
 				s.sendMail(email, num);
 				request.setAttribute("email", email);
@@ -132,6 +132,20 @@ public class SellerController extends HttpServlet {
 				request.setAttribute("otp", otp1);
 				request.setAttribute("msg", "OTP not mathced");
 				request.getRequestDispatcher("seller-verify-otp.jsp").forward(request, response);
+			}
+		}
+		else if(action.equalsIgnoreCase("new password")) {
+			String email = request.getParameter("email");
+			String np = request.getParameter("np");
+			String cnp = request.getParameter("cnp");
+			if(np.equals(cnp)) {
+				SellerDao.newPassword(np, email);
+				response.sendRedirect("seller-login.jsp");
+			}
+			else {
+				request.setAttribute("email", email);
+				request.setAttribute("msg", "new pass and confirm new pass not mathced");
+				request.getRequestDispatcher("seller-new-password.jsp").forward(request, response);
 			}
 		}
 	}

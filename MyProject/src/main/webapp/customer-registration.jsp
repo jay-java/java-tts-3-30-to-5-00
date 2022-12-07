@@ -207,35 +207,34 @@
 			<div class="col-lg-7 mb-5">
 				<div class="contact-form bg-light p-30">
 					<div id="success"></div>
-					<form action="CustomerController" name="sentMessage" id="contactForm"
-						novalidate="novalidate">
+					<form action="CustomerController" name="sentMessage" method="post">
 						<div class="control-group">
-							<input type="text" class="form-control" id="name"
+							<input type="text" class="form-control" id="name" name="name"
 								placeholder="Your Name" required="required"
 								data-validation-required-message="Please enter your name" />
 							<p class="help-block text-danger"></p>
 						</div>
 						
 						<div class="control-group">
-							<input type="text" class="form-control" id="subject"
+							<input type="text" class="form-control" id="subject" name="contact"
 								placeholder="Your Contact" required="required"
 								data-validation-required-message="Please enter a subject" />
 							<p class="help-block text-danger"></p>
 						</div>
-						<div class="control-group">
-							<input type="text" class="form-control" id="subject"
+						<div class="control-group"> 
+							<input type="text" class="form-control" id="subject" name="address"
 								placeholder="Your Address" required="required"
 								data-validation-required-message="Please enter a subject" />
 							<p class="help-block text-danger"></p>
 						</div>
 						<div class="control-group">
-							<input type="email" class="form-control" id="email"
+							<input type="email" class="form-control" id="email" name="email"
 								placeholder="Your Email" required="required"
 								data-validation-required-message="Please enter your email" />
 							<p class="help-block text-danger"></p>
 						</div>
 						<div class="control-group">
-							<input type="text" class="form-control" id="subject"
+							<input type="text" class="form-control" id="subject" name="password"
 								placeholder="Your Password" required="required"
 								data-validation-required-message="Please enter a subject" />
 							<p class="help-block text-danger"></p>
