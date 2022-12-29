@@ -207,16 +207,16 @@
 			<div class="col-lg-7 mb-5">
 				<div class="contact-form bg-light p-30">
 					<div id="success"></div>
-					<form action="CustomerController" name="sentMessage" id="contactForm"
-						novalidate="novalidate">
+					<form action="CustomerController" name="sentMessage"
+						novalidate="novalidate" method="post">
 						<div class="control-group">
 							<input type="email" class="form-control" id="email"
-								placeholder="Your Email" required="required"
+								placeholder="Your Email" required="required" name="email"
 								data-validation-required-message="Please enter your email" />
 							<p class="help-block text-danger"></p>
 						</div>
 						<div class="control-group">
-							<input type="text" class="form-control" id="subject"
+							<input type="text" class="form-control" id="subject" name="password"
 								placeholder="Your Password" required="required"
 								data-validation-required-message="Please enter a subject" />
 							<p class="help-block text-danger"></p>

@@ -6,8 +6,12 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
 
+import Dao.CustomerDao;
+import Dao.SellerDao;
 import Model.Customer;
+import Model.Seller;
 
 /**
  * Servlet implementation class CustomerController
@@ -40,11 +44,29 @@ public class CustomerController extends HttpServlet {
 		if(action.equalsIgnoreCase("register")) {
 			Customer c = new Customer();
 			c.setName(request.getParameter("name"));
-			c.setContact(Integer.parseInt(request.getParameter("contact")));
+			c.setContact(Long.parseLong(request.getParameter("contact")));
 			c.setAddress(request.getParameter("address"));
 			c.setEmail(request.getParameter("email"));
 			c.setPassword(request.getParameter("password"));
 			System.out.println(c);
+			CustomerDao.insertCustomer(c);
+			response.sendRedirect("customer-login.jsp");
+		}
+		else if(action.equalsIgnoreCase("login")) {
+			Customer s = new Customer();
+			s.setEmail(request.getParameter("email"));
+			s.setPassword(request.getParameter("password"));
+			Customer s1 = CustomerDao.customerLogin(s);
+			System.out.println(s1);
+			if(s1==null) {
+				request.setAttribute("msg", "Password is incorrect");
+				request.getRequestDispatcher("customer-login.jsp").forward(request, response);
+			}
+			else {
+				HttpSession session = request.getSession();
+				session.setAttribute("data", s1);
+				request.getRequestDispatcher("customer-index.jsp").forward(request, response);
+			}
 		}
 	}
 
