@@ -6,6 +6,8 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
+import model.User;
+
 public class DBConnection {
 	SessionFactory sf = null;
 	Session session = null;
@@ -20,8 +22,7 @@ public class DBConnection {
 		prop.setProperty("hibernate.hbm2ddl.auto", "update");
 		prop.setProperty("hibernate.show_sql", "true");
 		cfg = new Configuration();
-		cfg.configure().buildSessionFactory();
-		cfg.addProperties(prop);
+		cfg.addProperties(prop).addAnnotatedClass(User.class);
 		sf = cfg.buildSessionFactory();
 		session = sf.openSession();
 		return session;

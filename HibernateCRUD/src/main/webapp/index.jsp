@@ -13,5 +13,5 @@
 	<h1>
 		<a href="login.jsp">Login here...</a>
 	</h1>
-</body>
+</body> 
 </html>

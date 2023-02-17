@@ -1,13 +1,18 @@
 package model;
 
-import java.time.LocalDate;
 import java.util.Date;
-
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+@Entity
 public class User {
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
 	private int id;
 	private String name,address,email,password;
 	private long contact;
-	private long dob;
+	private String dob;
 	public int getId() {
 		return id;
 	}
@@ -44,10 +49,10 @@ public class User {
 	public void setContact(long contact) {
 		this.contact = contact;
 	}
-	public long getDob() {
+	public String getDob() {
 		return dob;
 	}
-	public void setDob(long dob) {
+	public void setDob(String dob) {
 		this.dob = dob;
 	}
 	@Override
@@ -55,5 +60,4 @@ public class User {
 		return "User [id=" + id + ", name=" + name + ", address=" + address + ", email=" + email + ", password="
 				+ password + ", contact=" + contact + ", dob=" + dob + "]";
 	}
-	
 }
