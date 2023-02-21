@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        https://www.springframework.org/schema/context/spring-context.xsd">
+	<context:annotation-config />
+
+	<bean class="collectionType.Data" name="d1">
+		<property name="id" value="1" />
+		<property name="name" value="java" />
+		<property name="mono">
+			<list>
+				<value>12345</value>
+				<value>47658678</value>
+				<value>45876587</value>
+			</list>
+		</property>
+		<property name="datas">
+			<set>
+				<value>abc</value>
+				<value>def</value>
+				<value>ghi</value>
+			</set>
+		</property>
+		<property name="bank">
+			<map>
+				<entry key="1234" value="name" />
+				<entry key="5688" value="name2" />
+			</map>
+		</property>
+	</bean>
+
+
+</beans>

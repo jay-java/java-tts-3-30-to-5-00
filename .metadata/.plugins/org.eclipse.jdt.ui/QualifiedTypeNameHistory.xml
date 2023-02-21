@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="SwingDemo"/>
-    <fullyQualifiedTypeName name="javax.print.attribute.standard.RequestingUserName"/>
-    <fullyQualifiedTypeName name="java.lang.Long"/>
-    <fullyQualifiedTypeName name="DAO.UserDao"/>
-    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
-    <fullyQualifiedTypeName name="Model.Seller"/>
-    <fullyQualifiedTypeName name="java.util.Random"/>
-    <fullyQualifiedTypeName name="services.Service"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="Dao.SellerDao"/>
-    <fullyQualifiedTypeName name="javax.servlet.annotation.MultipartConfig"/>
-    <fullyQualifiedTypeName name="javax.mail.Part"/>
-    <fullyQualifiedTypeName name="javax.servlet.http.Part"/>
-    <fullyQualifiedTypeName name="java.io.File"/>
-    <fullyQualifiedTypeName name="Model.Product"/>
-    <fullyQualifiedTypeName name="Dao.ProductDao"/>
     <fullyQualifiedTypeName name="Model.Customer"/>
     <fullyQualifiedTypeName name="Dao.CustomerDao"/>
     <fullyQualifiedTypeName name="com.mysql.cj.exceptions.CJConnectionFeatureNotAvailableException"/>
@@ -58,6 +42,22 @@
     <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
     <fullyQualifiedTypeName name="org.hibernate.Query"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="dao.UserDao"/>
+    <fullyQualifiedTypeName name="referenceType.Address"/>
+    <fullyQualifiedTypeName name="referenceType.Model"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="collectionType.Data"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.InitializingBean"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.DisposableBean"/>
+    <fullyQualifiedTypeName name="javax.annotation.PostConstruct"/>
+    <fullyQualifiedTypeName name="javax.annotation.PreDestroy"/>
+    <fullyQualifiedTypeName name="LIfeCycle.ByAnnotation"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.AbstractApplicationContext"/>
 </qualifiedTypeNameHistroy>

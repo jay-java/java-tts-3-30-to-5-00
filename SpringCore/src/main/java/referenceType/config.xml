@@ -14,4 +14,9 @@
 		<property name="street" value="cg road"/>
 	</bean>
 	
+	<bean class="referenceType.Address" name="a2">
+		<property name="hno" value="1221"/>
+		<property name="street" value="cg road"/>
+	</bean>
+	
 </beans>

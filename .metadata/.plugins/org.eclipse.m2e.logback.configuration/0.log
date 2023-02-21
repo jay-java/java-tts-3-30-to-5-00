@@ -1280,3 +1280,454 @@
 2023-02-18 18:06:15,733 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-02-18 18:06:15,733 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
 2023-02-18 18:06:15,733 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-18 18:06:15,733 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:24:26,076 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-02-21 17:25:45,346 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:25:45,347 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:25:45,348 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:25:45,349 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:27:22,215 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:27:22,215 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:27:22,217 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:27:22,217 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:27:32,303 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:27:32,303 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:27:32,305 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:27:32,305 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:27:38,204 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:27:38,204 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:27:38,206 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:27:38,206 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:27:45,424 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:27:45,424 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:27:45,426 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:27:45,426 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:27:52,717 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:27:52,718 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:27:52,719 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:27:52,720 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:27:55,514 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:27:55,515 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:27:55,516 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:27:55,516 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:28:15,374 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:28:15,375 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:28:15,375 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:28:15,376 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:28:26,976 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:28:26,976 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:28:26,977 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:28:26,977 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:28:39,081 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:28:39,081 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:28:39,082 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:28:39,082 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:28:41,087 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:28:41,087 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:28:41,089 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:28:41,089 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:28:50,582 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:28:50,583 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:28:50,584 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:28:50,584 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:29:10,818 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:29:10,819 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:29:10,820 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:29:10,820 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:29:23,049 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:29:23,049 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:29:23,050 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:29:23,050 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:29:37,768 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:29:37,769 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:29:37,769 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:29:37,769 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:29:41,242 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:29:41,242 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:29:41,243 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:29:41,243 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:29:42,349 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:29:42,349 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:29:42,351 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:29:42,351 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:29:45,477 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:29:45,477 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:29:45,478 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:29:45,478 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:29:59,489 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:29:59,490 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:29:59,491 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:29:59,491 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:30:26,389 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:30:26,390 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:30:26,391 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:30:26,391 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:30:44,015 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:30:44,016 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:30:44,017 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:30:44,017 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:31:05,413 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:31:05,413 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:31:05,414 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:31:05,414 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:31:25,692 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:31:25,693 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:31:25,693 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:31:25,693 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:31:30,288 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:31:30,288 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:31:30,289 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:31:30,289 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:32:27,857 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:32:27,857 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:32:27,858 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:32:27,858 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:33:14,490 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:33:14,490 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:33:14,491 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:33:14,491 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:33:34,847 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:33:34,847 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:33:34,847 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:33:34,848 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:33:37,903 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:33:37,903 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:33:37,904 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:33:37,904 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:36:58,063 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:36:58,063 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:36:58,064 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:36:58,064 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:37:23,868 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:37:23,868 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:37:23,868 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:37:23,869 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:37:33,125 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:37:33,125 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:37:33,126 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:37:33,126 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:37:50,614 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:37:50,614 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:37:50,616 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:37:50,616 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:38:15,032 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:38:15,032 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:38:15,033 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:38:15,033 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:38:25,399 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:38:25,400 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:38:25,401 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:38:25,401 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:39:47,666 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:39:47,666 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:39:47,667 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:39:47,667 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:39:51,787 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:39:51,787 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:39:51,788 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:39:51,788 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:39:54,448 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:39:54,448 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:39:54,449 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:39:54,449 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:40:03,189 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:40:03,189 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:40:03,190 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:40:03,190 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:40:34,519 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:40:34,519 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:40:34,520 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:40:34,520 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:40:39,704 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:40:39,705 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:40:39,705 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:40:39,706 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:40:52,378 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:40:52,379 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:40:52,379 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:40:52,379 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:40:57,175 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:40:57,175 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:40:57,175 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:40:57,176 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:41:02,599 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:41:02,599 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:41:02,600 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:41:02,600 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:41:42,820 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:41:42,821 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:41:42,822 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:41:42,822 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:41:50,490 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:41:50,490 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:41:50,491 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:41:50,491 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:42:18,108 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:42:18,108 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:42:18,109 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:42:18,109 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:42:21,001 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:42:21,002 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:42:21,003 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:42:21,003 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:42:52,557 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:42:52,557 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:42:52,558 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:42:52,558 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:43:10,582 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:43:10,582 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:43:10,583 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:43:10,583 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:43:20,229 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:43:20,229 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:43:20,230 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:43:20,230 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:43:28,779 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:43:28,779 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:43:28,779 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:43:28,780 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:43:31,342 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:43:31,343 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:43:31,343 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:43:31,344 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:43:51,341 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:43:51,341 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:43:51,342 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:43:51,342 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:43:52,496 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:43:52,496 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:43:52,497 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:43:52,497 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:44:00,066 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:44:00,067 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:44:00,067 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:44:00,067 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:44:02,611 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:44:02,612 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:44:02,612 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:44:02,613 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:44:21,778 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:44:21,778 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:44:21,778 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:44:21,779 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:45:32,618 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:45:32,618 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:45:32,619 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:45:32,619 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:46:07,851 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:46:07,852 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:46:07,852 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:46:07,852 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:46:14,025 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:46:14,025 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:46:14,026 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:46:14,026 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:46:27,671 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:46:27,671 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:46:27,672 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:46:27,672 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:47:25,348 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:47:25,349 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:47:25,349 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:47:25,349 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:47:36,899 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:47:36,899 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:47:36,900 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:47:36,900 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:48:06,593 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:48:06,593 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:48:06,595 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:48:06,596 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:48:22,731 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:48:22,732 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:48:22,732 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:48:22,732 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:48:55,948 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:48:55,948 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:48:55,949 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:48:55,949 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:49:31,029 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:49:31,030 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:49:31,030 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:49:31,030 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:49:46,654 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:49:46,654 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:49:46,655 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:49:46,655 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:49:56,144 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:49:56,145 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:49:56,146 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:49:56,146 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:50:01,369 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:50:01,369 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:50:01,369 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:50:01,370 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:50:29,020 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:50:29,020 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:50:29,021 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:50:29,021 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:50:43,127 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:50:43,127 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:50:43,128 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:50:43,128 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:50:49,420 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:50:49,420 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:50:49,421 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:50:49,421 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:51:04,677 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:51:04,678 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:51:04,679 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:51:04,680 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:51:16,858 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:51:16,858 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:51:16,859 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:51:16,859 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:51:27,421 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:51:27,421 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:51:27,422 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:51:27,422 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:51:32,585 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:51:32,585 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:51:32,586 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:51:32,586 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:51:51,807 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:51:51,807 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:51:51,808 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:51:51,808 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:52:22,669 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:52:22,705 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:52:22,706 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:52:22,706 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:52:42,477 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:52:42,477 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:52:42,478 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:52:42,478 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:53:14,684 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:53:14,684 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:53:14,685 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:53:14,685 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:53:18,056 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:53:18,056 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:53:18,057 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:53:18,057 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:53:39,616 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:53:39,616 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:53:39,616 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:53:39,617 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:53:43,135 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:53:43,135 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:53:43,136 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:53:43,136 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:54:31,939 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:54:31,939 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:54:31,940 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:54:31,940 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:54:43,879 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:54:43,879 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:54:43,879 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:54:43,880 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:54:52,681 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:54:52,682 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:54:52,682 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:54:52,683 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:55:00,391 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:55:00,391 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:55:00,392 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:55:00,392 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:55:12,392 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:55:12,392 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:55:12,392 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:55:12,392 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:55:29,654 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:55:29,654 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:55:29,655 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:55:29,655 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:56:05,187 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:56:05,187 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:56:05,188 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:56:05,188 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:56:25,486 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:56:25,487 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:56:25,487 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:56:25,488 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:56:38,234 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:56:38,234 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:56:38,235 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:56:38,235 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:56:56,813 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:56:56,814 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:56:56,814 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:56:56,814 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:57:18,945 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:57:18,945 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:57:18,945 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:57:18,945 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:57:45,480 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:57:45,480 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:57:45,481 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:57:45,482 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:58:13,197 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:58:13,197 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:58:13,198 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:58:13,198 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:58:25,795 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:58:25,795 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:58:25,796 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:58:25,797 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:58:51,256 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:58:51,256 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:58:51,257 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:58:51,257 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:59:09,636 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:59:09,636 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:59:09,637 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:59:09,637 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:59:16,231 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:59:16,231 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:59:16,232 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:59:16,232 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 17:59:38,672 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:59:38,672 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 17:59:38,673 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 17:59:38,673 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 18:01:05,416 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.core:SpringCore:0.0.1-SNAPSHOT @ C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\pom.xml.
+2023-02-21 18:01:05,594 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 18:01:05,594 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 18:01:05,595 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 18:01:05,596 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 18:01:06,920 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 18:01:06,920 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 18:01:06,920 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 18:01:06,921 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 18:01:19,410 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 18:01:19,410 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 18:01:19,411 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 18:01:19,411 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 18:01:50,321 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 18:01:50,321 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 18:01:50,322 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 18:01:50,322 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 18:01:56,754 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 18:01:56,754 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 18:01:56,754 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 18:01:56,754 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 18:01:57,825 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 18:01:57,825 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 18:01:57,826 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 18:01:57,826 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 18:02:36,014 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 18:02:36,014 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 18:02:36,014 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 18:02:36,014 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 18:03:18,880 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 18:03:18,880 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 18:03:18,880 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 18:03:18,881 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 18:03:22,535 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 18:03:22,535 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 18:03:22,536 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 18:03:22,536 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
+2023-02-21 18:03:42,336 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 18:03:42,337 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\main\resources
+2023-02-21 18:03:42,337 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-21 18:03:42,338 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jay-pc\JAVA TTS 3-30 to 5-00\SpringCore\src\test\resources
