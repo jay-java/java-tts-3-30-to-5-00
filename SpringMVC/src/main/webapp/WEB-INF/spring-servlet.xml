@@ -9,25 +9,31 @@
         https://www.springframework.org/schema/context/spring-context.xsd
         http://www.springframework.org/schema/tx
         https://www.springframework.org/schema/tx/spring-tx.xsd">
-       
-       <context:component-scan base-package="com"></context:component-scan>       
-        
-        <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver" name="viewResolver">
-        	<property name="prefix" value="/WEB-INF/views/"/>
-        	<property name="suffix" value=".jsp"/>
-        </bean>
-        
-        
-        
-<!-- 	<tx:annotation-driven/>
-	<bean class="org.springframework.jdbc.datasource.DriverManagerDataSource" name="ds">
-		<property name="driverClassName" value="com.mysql.cj.jdbc.Driver"/>
-		<property name="url" value="jdbc:mysql://localhost:3306/springorm"/>
-		<property name="username" value="root"/>
-		<property name="password" value=""/>
+	<tx:annotation-driven />
+	<context:annotation-config />
+	<context:component-scan base-package="com"></context:component-scan>
+
+	<bean
+		class="org.springframework.web.servlet.view.InternalResourceViewResolver"
+		name="viewResolver">
+		<property name="prefix" value="/WEB-INF/views/" />
+		<property name="suffix" value=".jsp" />
 	</bean>
-	<bean class="org.springframework.orm.hibernate5.LocalSessionFactoryBean" name="factory">
-		<property name="dataSource" ref="ds"/>
+
+	<bean
+		class="org.springframework.jdbc.datasource.DriverManagerDataSource"
+		name="ds">
+		<property name="driverClassName"
+			value="com.mysql.cj.jdbc.Driver" />
+		<property name="url"
+			value="jdbc:mysql://localhost:3306/springmvc" />
+		<property name="username" value="root" />
+		<property name="password" value="" />
+	</bean>
+	<bean
+		class="org.springframework.orm.hibernate5.LocalSessionFactoryBean"
+		name="factory">
+		<property name="dataSource" ref="ds" />
 		<property name="hibernateProperties">
 			<props>
 				<prop key="hibernate.dialect">org.hibernate.dialect.MySQL5Dialect</prop>
@@ -37,21 +43,24 @@
 		</property>
 		<property name="annotatedClasses">
 			<list>
-				<value>com.orm.Model</value>
+				<value>com.model.User</value>
 			</list>
 		</property>
 	</bean>
-	
-	<bean class="org.springframework.orm.hibernate5.HibernateTemplate" name="hibernateTemplate">
-		<property name="sessionFactory" ref="factory"/>
+
+	<bean class="org.springframework.orm.hibernate5.HibernateTemplate"
+		name="hibernateTemplate">
+		<property name="sessionFactory" ref="factory" />
 	</bean>
 
-	<bean class="com.orm.Dao" name="dao">
-		<property name="hibernateTemplate" ref="hibernateTemplate"/>
+	<bean class="com.dao.UserDao" name="dao">
+		<property name="hibernateTemplate" ref="hibernateTemplate" />
 	</bean>
 
-	<bean class="org.springframework.orm.hibernate5.HibernateTransactionManager" name="transactionManager">
-		<property name="sessionFactory" ref="factory"/>
-	</bean> -->
+	<bean
+		class="org.springframework.orm.hibernate5.HibernateTransactionManager"
+		name="transactionManager">
+		<property name="sessionFactory" ref="factory" />
+	</bean>
 
 </beans>
