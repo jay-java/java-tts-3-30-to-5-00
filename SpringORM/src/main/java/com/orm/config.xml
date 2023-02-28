@@ -16,7 +16,7 @@
 		<property name="username" value="root"/>
 		<property name="password" value=""/>
 	</bean>
-	<bean class="org.springframework.orm.hibernate5.LocalSessionFactoryBean" name="sf">
+	<bean class="org.springframework.orm.hibernate5.LocalSessionFactoryBean" name="factory">
 		<property name="dataSource" ref="ds"/>
 		<property name="hibernateProperties">
 			<props>
@@ -33,7 +33,7 @@
 	</bean>
 	
 	<bean class="org.springframework.orm.hibernate5.HibernateTemplate" name="hibernateTemplate">
-		<property name="sessionFactory" ref="sf"/>
+		<property name="sessionFactory" ref="factory"/>
 	</bean>
 
 	<bean class="com.orm.Dao" name="dao">
@@ -41,7 +41,7 @@
 	</bean>
 
 	<bean class="org.springframework.orm.hibernate5.HibernateTransactionManager" name="transactionManager">
-		<property name="sessionFactory" ref="sf"/>
+		<property name="sessionFactory" ref="factory"/>
 	</bean>
 
 </beans>

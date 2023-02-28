@@ -18,8 +18,9 @@ public class Dao {
 	public void insertUser(Model m) {
 		this.hibernateTemplate.save(m);
 	}
+	
 	public Model getModelById(int id) {
-		Model m =this.hibernateTemplate.load(Model.class, id);
+		Model m =this.hibernateTemplate.get(Model.class, id);
 		return m;
 	}
 	public List<Model> getAllModel(){
