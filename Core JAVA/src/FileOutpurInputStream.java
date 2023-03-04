@@ -6,14 +6,14 @@ import java.io.IOException;
 public class FileOutpurInputStream {
 	public static void main(String[] args) throws IOException {
 		String s = "hello this is file handling";
-		FileOutputStream fos = new FileOutputStream("t1.txt");
+		FileOutputStream fos = new FileOutputStream("t5.txt");
 		byte[] b = s.getBytes();
 		fos.write(b);
 		fos.flush();
 		fos.close();
 		System.out.println("file written successfully");
 		
-		FileInputStream fis = new FileInputStream("t1.txt");
+		FileInputStream fis = new FileInputStream("t5.txt");
 		int i;
 		while((i = fis.read())!=-1) {
 			System.out.print((char)i);

@@ -1,12 +1,16 @@
 package com.controller;
 
+import java.util.List;
+
 import javax.servlet.http.HttpServletRequest;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.servlet.view.RedirectView;
 
 import com.dao.UserDao;
 import com.model.User;
@@ -17,15 +21,34 @@ public class MainController {
 	private UserDao dao;
 
 	@RequestMapping("/")
-	public String index() {
+	public String index(Model m) {
+		List<User> list = dao.getAllModel();
+		m.addAttribute("list", list);
 		return "index";
 	}
 
 	@RequestMapping("register")
-	public String register(@ModelAttribute User u) {
-		System.out.println(u);
+	public RedirectView register(@ModelAttribute User u,HttpServletRequest request) {
 		dao.inserUPdateUser(u);
-		return "";
+		RedirectView view = new RedirectView();
+		view.setUrl(request.getContextPath()+"/");
+		return view;
+	}
+	
+	@RequestMapping("/update/{id}")
+	public String update(@PathVariable int id,Model m) {
+		User u = dao.getModelById(id);
+		m.addAttribute("u", u);
+		return "update";
+	}
+	
+	@RequestMapping("/delete/{id}")
+	public RedirectView deleteUser(@PathVariable int id,HttpServletRequest request) {
+		User u = dao.getModelById(id);
+		dao.deleteModel(u);
+		RedirectView view = new RedirectView();
+		view.setUrl(request.getContextPath()+"/");
+		return view;
 	}
 
 //	@RequestMapping("register")
